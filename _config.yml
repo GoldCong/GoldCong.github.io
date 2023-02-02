@@ -1,5 +1,5 @@
 # Site settings
-title: Jekyll-Uno
+title: God Cong-沈聪
 description: 'Jekyll-Uno - a minimal, responsive theme for Jekyll'
 url: 'http://joshgerdes.com/jekyll-uno'
 baseurl: '/jekyll-uno'
@@ -8,12 +8,12 @@ baseurl: '/jekyll-uno'
 # disable_landing_page: true
 
 author:
-  name: 'Josh Gerdes'
-  email: josh@joshgerdes.com
-  twitter_username: joshgerdes
-  facebook_username: joshgerdes
-  github_username:  joshgerdes
-  linkedin_username:  joshgerdes
+  name: '沈聪'
+  email: shen_cong96@163.com
+  #twitter_username: joshgerdes
+  #facebook_username: joshgerdes
+  github_username:  GoldCong
+  #linkedin_username:  joshgerdes
 
 defaults:
   -
